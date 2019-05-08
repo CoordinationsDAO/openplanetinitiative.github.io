@@ -1,0 +1,8 @@
+http://web.archive.org/web/20190506190424/https://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code/
+http://web.archive.org/web/20190506191140/https://nodesource.com/blog/a-high-level-post-mortem-of-the-eslint-scope-security-incident/
+
+https://blog.aragon.one/using-apm-to-replace-npm-and-other-centralized-package-managers/
+
+http://web.archive.org/web/20190506191455/https://kodfabrik.com/journal/i-ve-just-liberated-my-modules/
+http://web.archive.org/web/20190506201033/https://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm
+http://web.archive.org/web/20190506201450/https://github.com/eslint/eslint-scope/issues/39
