@@ -6,6 +6,7 @@
     background: url(../icon.png) no-repeat no-repeat 3px 8px;
     background-size: 41px;
     text-indent: 49px;
+    color: #00b0f0!important;
 }
 
 ::selection {
