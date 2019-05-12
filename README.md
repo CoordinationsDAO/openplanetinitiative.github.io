@@ -1,4 +1,4 @@
-<img src="icon.png"/>
+<img width="50px" src="icon.png"/>
 
 # Open Planet Initiative
 
