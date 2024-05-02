@@ -1,12 +1,12 @@
-commit QmbbCFCj8PccLyuYAPRtDn415kZDrEKEkLs5TWdn3EmJuF
+commit QmYL5vjDiDK9iUWJHdvcbggYo7p6jzbkRwemdYzbKWC9Jd
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: 6f87579402d1431b5a4fb5b9c18c1009c4d2cddb1638922fb57a76d50b9c00190431a34de4ea399ad8cc3288f5fd25a1647f9f51bb4d7b62d5e28990e8c9be2e00
+Signature: 042ecb536f143c79a262ba180a7f5d99a17937c8cd41b1346d9618bb7b531885393f5daf58312ae41416ce9de7919d654d8f4182e0ce137e31bf91f421414d7600
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmYoG6r7NRjXj5R264NsMcMA75uwykTDdPAeGrUmdATyfv
-Commit CID if containing only file hashes: QmWHQ7rv9pD1KD8WDs4TBNbFkCYepiagjncundmvg7oS3C
+Commit CID if including git's SHA1: QmVJoENMJ4eobFmPQQXSPPp9jSNu2Xpqk73qU1g8YynRT5
+Commit CID if containing only file hashes: QmPrqNXpFrwU38PMWNXgoD6BMJEU2CpYSAHAMTWELvutZq
 
 ------------------------------
 
@@ -17,31 +17,11 @@ Remote URL: https://github.com/CoordinationsDAO/openplanetinitiative.github.io.g
 
 ------------------------------
 
-chown -h 1000:1000 '.gitignore'
-chmod 0755 '.gitignore'
-/usr/bin/touch -hcmd "2024-05-02 00:04:14.3528043000 -0300" '.gitignore'
-/usr/bin/touch -hcad "2024-05-02 00:04:18.2501300000 -0300" '.gitignore'
-chown -h 1000:1000 'img/5d30129fbe8118efde2a8a25_Badge Light.svg'
-chmod 0755 'img/5d30129fbe8118efde2a8a25_Badge Light.svg'
-/usr/bin/touch -hcmd "2019-09-09 20:50:48.0000000000 -0300" 'img/5d30129fbe8118efde2a8a25_Badge Light.svg'
-/usr/bin/touch -hcad "2024-05-02 00:02:00.2045381000 -0300" 'img/5d30129fbe8118efde2a8a25_Badge Light.svg'
-chown -h 1000:1000 'img/aragon.svg'
-chmod 0755 'img/aragon.svg'
-/usr/bin/touch -hcmd "2019-09-10 20:46:34.0000000000 -0300" 'img/aragon.svg'
-/usr/bin/touch -hcad "2024-05-02 00:02:00.2675453000 -0300" 'img/aragon.svg'
-chown -h 1000:1000 'img/social/mastodon.svg'
-chmod 0755 'img/social/mastodon.svg'
-/usr/bin/touch -hcmd "2019-07-31 10:22:02.0000000000 -0300" 'img/social/mastodon.svg'
-/usr/bin/touch -hcad "2024-05-02 00:02:00.9176201000 -0300" 'img/social/mastodon.svg'
-chown -h 1000:1000 'img/social/riot.svg'
-chmod 0755 'img/social/riot.svg'
-/usr/bin/touch -hcmd "2019-07-31 10:24:00.0000000000 -0300" 'img/social/riot.svg'
-/usr/bin/touch -hcad "2024-05-02 00:02:01.0516356000 -0300" 'img/social/riot.svg'
-chown -h 1000:1000 'ipfs.txt'
-chmod 0755 'ipfs.txt'
-/usr/bin/touch -hcmd "2019-09-11 00:26:58.0000000000 -0300" 'ipfs.txt'
-/usr/bin/touch -hcad "2024-05-01 23:54:31.1889569000 -0300" 'ipfs.txt'
-chown -h 1000:1000 'list.txt'
-chmod 0755 'list.txt'
-/usr/bin/touch -hcmd "2019-09-13 14:33:26.0000000000 -0300" 'list.txt'
-/usr/bin/touch -hcad "2024-05-01 23:54:31.3179502000 -0300" 'list.txt'
+chown -h 1000:1000 '01.blm.log.html5'
+chmod 0664 '01.blm.log.html5'
+/usr/bin/touch -hcmd "2024-05-02 00:02:24.5302632000 -0300" '01.blm.log.html5'
+/usr/bin/touch -hcad "2024-05-02 00:06:38.6259818000 -0300" '01.blm.log.html5'
+chown -h 1000:1000 'git.status.log.html5'
+chmod 0664 'git.status.log.html5'
+/usr/bin/touch -hcmd "2024-05-01 23:50:03.7745285000 -0300" 'git.status.log.html5'
+/usr/bin/touch -hcad "2024-05-01 23:54:30.6969822000 -0300" 'git.status.log.html5'
