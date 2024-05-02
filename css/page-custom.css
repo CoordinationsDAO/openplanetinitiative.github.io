@@ -1,50 +1,60 @@
 .header, header {
-    background: #0066ff!important;
+    background: #06c!important;
     height:65px;
 }
 
-.logo,logo {
+/*.logo,logo {
     background: url(../icon.png) no-repeat no-repeat 3px 0px;
     background-size: 38px;
     color: #fff!important;
     padding: 0 0px 9px 52px;
     line-height: 48px;
+}*/
+
+.logo,logo {
+    background: url(../press/press-kit/img/logotype-plain_white.svg) no-repeat no-repeat 3px 3px;
+    background-size: 218px;
+    text-indent: 49px;
+    min-width: 225px;
+    padding: 0 0px 11px 227px !important;
+    line-height: 24px !important;
 }
+.logo, logo:hover{background-color:rgba(0, 0, 0, 0.12)}
 
 .content{top:65px}
 
 ::selection {
-    background: #0066ff!important;
+    background: #06c!important;
     color: #fff!important;
 }
 
 .h0, h0 {
-    color: #0066ff!important;
+    color: #06c!important;
 }
 
 .h1, h1 {
-    color: #0066ff!important;
+    color: #06c!important;
 }
 
 .navmenu {
-    color: #0066ff!important;
+    color: #06c!important;
 }
 .navmenu ul > li:hover {
-    background: #0066ff!important;
+    background: #06c!important;
 }
 
-ul.tabs{border-bottom:1px solid #0066ff}
-ul.tabs li a:active{color:#0066ff80;border-bottom:4px solid #0066ff80}
-ul.tabs li.current a{color:#0066ff;border-bottom:4px solid #0066ff}
+ul.tabs{border-bottom:1px solid #06c}
+ul.tabs li a:active{color:#06c80;border-bottom:4px solid #06c80}
+ul.tabs li.current a{color:#06c;border-bottom:4px solid #06c}
 
-button.color{background:#0066ff;color:#fff;font-weight:bold;padding:10px;font-size:16px}
-button.color:hover{background:#fff;color:#0066ff}
+button.color{background:#06c;color:#fff;font-weight:bold;padding:10px;font-size:16px}
+button.color:hover{background:#fff;color:#06c}
 
 .btn-primary {
-    background-color:#0066ff!important;
+    background-color:#06c!important;
 }
 
-.footer,footer{background:#0066ff}
+.footer,footer{background:#06c}
 
 @media(max-width:8in){
 .header, header {

@@ -1,0 +1,45 @@
+This folder: /media/daniella/B/git/Coordinations/Coordinations/&meta/tmp-branding
+
+folderstamp version: r5
+Method: Recursive
+
+  File: ./.folderstamp
+  Size: 125       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,52	Inode: 2618051     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-02 00:24:34.421476800 -0300
+Modify: 2024-05-02 00:24:34.445476600 -0300
+Change: 2024-05-02 00:24:34.445476600 -0300
+ Birth: 2024-05-02 00:24:34.421476800 -0300
+IPFS hash: QmNb7NaYhBCDr5MZJimnX5nikARYvsCN3eFXjCiDf1vUZ6
+------------------------------
+  File: ./.folderstamp1
+  Size: 1516      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,52	Inode: 2586868     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-02 00:24:15.517675200 -0300
+Modify: 2024-05-02 00:24:15.754672800 -0300
+Change: 2024-05-02 00:24:19.557633400 -0300
+ Birth: 2024-05-02 00:24:15.517675200 -0300
+IPFS hash: QmU8MmvdExjHNumGVqPFAjWBQmFo27zfqWLjBZQahJQwVW
+------------------------------
+  File: ./logotype.svg
+  Size: 26466     	Blocks: 56         IO Block: 4096   regular file
+Device: 8,52	Inode: 2037948     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-02 00:24:06.533767100 -0300
+Modify: 2024-05-02 00:23:37.695051000 -0300
+Change: 2024-05-02 00:24:30.309520600 -0300
+ Birth: 2024-05-02 00:23:37.632051600 -0300
+IPFS hash: QmWhd8Utf7CNbks3vkNA2UuwDTUWwFNDVHiWAnbTbCv2gy
+------------------------------
+  File: ./rmv-after-commit/logotype (copy).svg
+  Size: 22719     	Blocks: 48         IO Block: 4096   regular file
+Device: 8,52	Inode: 214189      Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-02 00:24:06.541767000 -0300
+Modify: 2024-05-02 00:19:40.957622000 -0300
+Change: 2024-05-02 00:24:25.691569300 -0300
+ Birth: 2024-05-02 00:16:50.997633600 -0300
+IPFS hash: QmYweFeTWJQvxCp7ezWzLGhPzhPSpswQKU9NC5AKbAqKF4
+------------------------------
