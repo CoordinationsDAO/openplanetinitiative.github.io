@@ -1,0 +1,202 @@
+This folder: /media/daniella/B/git/Coordinations/Open Planet Initiative
+
+  File: ./awesome-humane-tech
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 1911804     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:05:34.986176800 -0300
+Modify: 2020-12-11 15:38:18.603286000 -0300
+Change: 2020-12-11 15:38:18.617409500 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./commondatabase
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 1976464     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:05:34.357746200 -0300
+Modify: 2020-12-11 16:57:54.553252000 -0300
+Change: 2020-12-11 16:57:54.567268800 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./css
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 1911856     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:05:37.102898600 -0300
+Modify: 2020-12-11 15:38:18.893397000 -0300
+Change: 2020-12-11 15:38:18.921896400 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./dat.json
+  Size: 39        	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 1911263     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:05:34.969544300 -0300
+Modify: 2019-04-28 14:15:36.000000000 -0300
+Change: 2020-12-11 15:37:53.341552700 -0300
+ Birth: -
+IPFS hash: QmemyhahAG667nGXUpErxUC6451YHQ3yJfp5EDY3GdZLzH
+------------------------------
+  File: ./desktop.ini
+  Size: 90        	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 1976463     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:05:32.554129200 -0300
+Modify: 2019-11-29 23:30:04.703750000 -0300
+Change: 2020-12-11 16:57:23.384598800 -0300
+ Birth: -
+IPFS hash: QmTBmJhsAftZditcWseKWEnu3wPnWBYXVdgbfYbaFHbZMz
+------------------------------
+  File: ./favicon.ico
+  Size: 361102    	Blocks: 712        IO Block: 4096   regular file
+Device: 8,20	Inode: 1911264     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:05:34.969544300 -0300
+Modify: 2019-04-28 14:16:10.000000000 -0300
+Change: 2020-12-11 15:37:53.424998700 -0300
+ Birth: -
+IPFS hash: QmYSchKA1aQ68TFRGcEMWLYGrRe6QCJ3ND65r4xQXvdN4C
+------------------------------
+  File: ./Fonts
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 1911862     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:05:41.010226000 -0300
+Modify: 2020-12-11 15:38:19.868668000 -0300
+Change: 2020-12-11 15:38:19.882530900 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./hugo
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 1911884     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:05:41.088359000 -0300
+Modify: 2020-12-11 15:39:50.899079000 -0300
+Change: 2020-12-11 15:39:50.913817800 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./icon.ico
+  Size: 24255     	Blocks: 48         IO Block: 4096   regular file
+Device: 8,20	Inode: 1911265     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:05:34.986176800 -0300
+Modify: 2019-04-24 20:49:26.000000000 -0300
+Change: 2020-12-11 15:37:53.469119900 -0300
+ Birth: -
+IPFS hash: QmasNe17PqNC19xafj91Ee2xf8u9tpct3x7xKWExT9x54L
+------------------------------
+  File: ./icon.png
+  Size: 61618     	Blocks: 128        IO Block: 4096   regular file
+Device: 8,20	Inode: 1911266     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:05:34.986176800 -0300
+Modify: 2019-04-24 20:49:26.000000000 -0300
+Change: 2020-12-11 15:37:53.540158600 -0300
+ Birth: -
+IPFS hash: QmSBM9BEjseyftC6NtEZwaVnLu2wW5GW5gtpqk1K8DLaVG
+------------------------------
+  File: ./icon.svg
+  Size: 19249     	Blocks: 40         IO Block: 4096   regular file
+Device: 8,20	Inode: 1911267     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:05:34.986176800 -0300
+Modify: 2019-06-02 19:48:32.000000000 -0300
+Change: 2020-12-11 15:37:53.581863000 -0300
+ Birth: -
+IPFS hash: QmYcjNJvcdKL2kDpQQ7JGqnQNeLE8QsAYjs7RB3sZFJ1LQ
+------------------------------
+  File: ./img
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 1913511     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:05:41.120010400 -0300
+Modify: 2020-12-11 15:39:51.401252000 -0300
+Change: 2020-12-11 15:39:51.415265700 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./index.html
+  Size: 15717     	Blocks: 32         IO Block: 4096   regular file
+Device: 8,20	Inode: 1911268     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2021-10-22 15:26:16.766321000 -0300
+Modify: 2020-11-26 14:40:21.654417000 -0300
+Change: 2020-12-11 15:37:53.617552000 -0300
+ Birth: -
+IPFS hash: Qmbznkfi1V6H6uxWviidLc5Ag8YSdW5p7ABgtwRjLudw21
+------------------------------
+  File: ./ipfs.txt
+  Size: 94        	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 1911269     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:05:34.986176800 -0300
+Modify: 2019-09-11 00:26:58.000000000 -0300
+Change: 2020-12-11 15:37:53.641765500 -0300
+ Birth: -
+IPFS hash: QmPYUjjpiQd2uFUA1jarHw7uGVVJgPT76sywbU9ss3fWKP
+------------------------------
+  File: ./js
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 1913525     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:05:37.165407700 -0300
+Modify: 2020-12-11 15:39:51.498778000 -0300
+Change: 2020-12-11 15:39:51.527236200 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./list.txt
+  Size: 75        	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 1911270     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2021-10-22 15:26:16.797574500 -0300
+Modify: 2019-09-13 14:33:26.000000000 -0300
+Change: 2020-12-11 15:37:53.666963200 -0300
+ Birth: -
+IPFS hash: QmQaewF1dzh3sYEpprqSVaHaiUrSsaS5cBh3obxrHcVxXr
+------------------------------
+  File: ./PJ
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 1913529     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-04-05 14:36:16.616472100 -0300
+Modify: 2022-12-17 20:32:28.513453100 -0300
+Change: 2022-12-17 20:32:28.513453100 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./plugins
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 1976413     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:05:41.260540100 -0300
+Modify: 2020-12-11 16:57:23.356333000 -0300
+Change: 2020-12-11 16:57:23.370067200 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./Presentationn.pptx
+  Size: 107020    	Blocks: 216        IO Block: 4096   regular file
+Device: 8,20	Inode: 1911271     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:05:34.969544300 -0300
+Modify: 2019-08-03 20:47:24.000000000 -0300
+Change: 2020-12-11 15:37:53.737855700 -0300
+ Birth: -
+IPFS hash: QmSgzScKVLdjyaFZBHEXsz6kPmtDayjMfd9e61ULwfJb5P
+------------------------------
+  File: ./README.md
+  Size: 249       	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 1911272     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:05:34.969544300 -0300
+Modify: 2019-08-02 15:36:44.000000000 -0300
+Change: 2020-12-11 15:37:53.764051300 -0300
+ Birth: -
+IPFS hash: QmQCUGS27jKE9JuU1eEvNjTNUSygHNCKAiiyz66gZFWgcf
+------------------------------
