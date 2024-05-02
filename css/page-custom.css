@@ -1,13 +1,17 @@
 .header, header {
     background: #0066ff!important;
+    height:65px;
 }
 
 .logo,logo {
-    background: url(../icon.png) no-repeat no-repeat 3px 8px;
-    background-size: 41px;
-    text-indent: 49px;
-    color: #00b0f0!important;
+    background: url(../icon.png) no-repeat no-repeat 3px 0px;
+    background-size: 38px;
+    color: #fff!important;
+    padding: 0 0px 9px 52px;
+    line-height: 48px;
 }
+
+.content{top:65px}
 
 ::selection {
     background: #0066ff!important;
@@ -41,3 +45,15 @@ button.color:hover{background:#fff;color:#0066ff}
 }
 
 .footer,footer{background:#0066ff}
+
+@media(max-width:8in){
+.header, header {
+    height:53px;
+}
+.logo, logo {
+    font-size: 25px;
+    line-height: 35px;
+    background-size: 32px;
+    padding: 0 0px 9px 42px;
+}
+}

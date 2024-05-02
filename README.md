@@ -5,3 +5,13 @@
 ## Planet, Peace, People.
 
 ### Open initiative to fund and list humankind's useful projects and people.
+
+----
+
+## Todo
+
+- Branding
+- Profile+Blog
+- Manifesto
+- Blog
+- PKit
