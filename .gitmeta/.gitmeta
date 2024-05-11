@@ -1,12 +1,12 @@
-commit QmPuXFUz2kTwboTo62dKRJ7vzRhWrEhqnrowZSW498bDd1
+commit QmU2i7hbnaWYk6PxwAEhVZXmyYPXJhfviH26GyGjTN4LEF
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: a020cf354fb7f7eadf7b34d642831fe4de776665f632b9d110aecb7b36ce97207be3799f39a87252eed78098e1192b2133b1f0a1e840e8b2893abd43a9fd1e5b00
+Signature: bad2170bc38b3eab5a5056ee362f50148fd2d4bf65262dfd5bab1e54510f993c33381859febb9542c77b72b51ea4873a0e78ecdb32378d6bcbc630f27e7c4f7a00
 
 ------------------------------
 
-Commit CID if including git's SHA1: Qmangy6zafm5Fvs7N6iV2jAqw9fhoAuJxaYB5NLhoiv1Sc
-Commit CID if containing only file hashes: QmYUgv2ptchc1WT8ytdF1xPBWiWeizDokUEuroTJ5xRJWU
+Commit CID if including git's SHA1: QmWAnfS97omGsgjkM4PpxZNTVAdAM6Mn2krMDGSdg5JAwJ
+Commit CID if containing only file hashes: QmPT58QW8xxKCVDgczseoJgNztJMna96kf9PdqJEjtEUav
 
 ------------------------------
 
@@ -17,11 +17,7 @@ Remote URL: https://github.com/CoordinationsDAO/openplanetinitiative.github.io.g
 
 ------------------------------
 
-chown -h 1000:1000 '.gitignore'
-chmod 0755 '.gitignore'
-/usr/bin/touch -hcmd "2024-05-02 01:36:29.6024316000 -0300" '.gitignore'
-/usr/bin/touch -hcad "2024-05-02 01:36:34.5004439000 -0300" '.gitignore'
-chown -h 1000:1000 'tmp/README.md'
-chmod 0755 'tmp/README.md'
-/usr/bin/touch -hcmd "2019-08-02 15:36:44.0000000000 -0300" 'tmp/README.md'
-/usr/bin/touch -hcad "2024-05-02 01:36:39.4024563000 -0300" 'tmp/README.md'
+chown -h 1000:1000 'index.html'
+chmod 0755 'index.html'
+/usr/bin/touch -hcmd "2024-05-11 19:23:16.2599415000 -0300" 'index.html'
+/usr/bin/touch -hcad "2024-05-11 19:23:20.2477415000 -0300" 'index.html'
